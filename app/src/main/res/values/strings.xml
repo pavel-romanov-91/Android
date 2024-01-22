@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="convert_string">Convert</string>
+    <string name="many_string">many</string>
+    <string name="convector_string">Конвектор валют</string>
+    <string name="no_value_string">many</string>
+    <string name="convert_evro_string">Convert evro</string>
+    <string name="random_string">Random</string>
+
+
+</resources>
